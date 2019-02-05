@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button should render a  button 1`] = `
+<div
+  className="Button"
+>
+  <button
+    type="button"
+  >
+    Click me!
+  </button>
+</div>
+`;
+
+exports[`Button should render a  button 2`] = `
+<div
+  className="Button"
+>
+  <button
+    type="button"
+  >
+    Click me!
+  </button>
+</div>
+`;

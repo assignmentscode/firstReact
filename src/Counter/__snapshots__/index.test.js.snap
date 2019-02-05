@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button should render a  button 1`] = `
+<div
+  className="Counter"
+>
+  <p>
+    Counter : 0
+  </p>
+  <span>
+    <button
+      type="button"
+    >
+      Add
+    </button>
+    <button
+      type="button"
+    >
+      Minus
+    </button>
+  </span>
+</div>
+`;
