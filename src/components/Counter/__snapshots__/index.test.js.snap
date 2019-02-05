@@ -1,22 +1,24 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Button should render a  button 1`] = `
+exports[`Counter should render a  button 1`] = `
 <div
   className="Counter"
 >
   <p>
-    Counter : 0
+    Counter : 
   </p>
   <span>
     <button
+      onClick={[Function]}
       type="button"
     >
-      Add
+      Increment
     </button>
     <button
+      onClick={[Function]}
       type="button"
     >
-      Minus
+      Decreament
     </button>
   </span>
 </div>
